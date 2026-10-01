@@ -46,3 +46,11 @@ const googleLogin= async(req,res)=>{
         return res.status(401);
     }
 }
+
+const refresh = (req,res)=>{
+    
+}
+
+const logout = (req,res)=>{
+
+}
